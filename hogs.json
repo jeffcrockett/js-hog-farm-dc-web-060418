@@ -1,24 +1,6 @@
 {
   "hogs": [
     {
-      "id": 0,
-      "name": "Mudblood",
-      "specialty": "Mediocre magic",
-      "greased": false,
-      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 2,
-      "highest medal achieved": "bronze",
-      "image": "./hog-imgs/mudblood.jpg"
-    },
-    {
-      "id": 1,
-      "name": "Porkchop",
-      "specialty": "Making friends",
-      "greased": true,
-      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 1.6,
-      "highest medal achieved": "silver",
-      "image": "./hog-imgs/porkchop.jpg"
-    },
-    {
       "id": 2,
       "name": "Cherub",
       "specialty": "truffle finder",
@@ -116,6 +98,33 @@
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 4.1,
       "highest medal achieved": "wood",
       "image": "./hog-imgs/augustus_gloop.jpg"
+    },
+    {
+      "name": "Hoggo",
+      "specialty": "big hog",
+      "greased": false,
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "690",
+      "highest medal achieved": "Turquoise",
+      "image": "http://s3.amazonaws.com/mtv-main-assets/files/resources/medium_livestock-oct-2013-shenk-528.jpg",
+      "id": 14
+    },
+    {
+      "name": "Piggy",
+      "specialty": "makin bacon",
+      "greased": false,
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "500",
+      "highest medal achieved": "blue",
+      "image": "hogimage.png",
+      "id": 15
+    },
+    {
+      "name": "Some name",
+      "specialty": "some specialty",
+      "greased": true,
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "500",
+      "highest medal achieved": "Turquoise",
+      "image": "some image",
+      "id": 16
     }
   ]
 }
